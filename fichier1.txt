@@ -1,2 +1,5 @@
 ceci est le fichier1 
 nouvelle ligne etape 10
+modifictzion1
+modification2
+modification 3
